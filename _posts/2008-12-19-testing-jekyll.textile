@@ -1,0 +1,11 @@
+---
+layout: post
+title: Giving Jekyll a spin at github.com
+---
+
+h1. {{ page.title }}
+
+p(meta). 19 Dec 2008 - Sunnyvale
+
+Stealing heavily from tpw, I'm seeing if Jekyll on github.com is for me...
+
