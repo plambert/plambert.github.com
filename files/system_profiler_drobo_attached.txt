@@ -1,0 +1,141 @@
+USB:
+
+    USB High-Speed Bus:
+
+      Host Controller Location: Built In USB
+      Host Controller Driver: AppleUSBEHCI
+      PCI Device ID: 0x27cc
+      PCI Revision ID: 0x0002
+      PCI Vendor ID: 0x8086
+      Bus Number: 0xfd
+
+        Drobo:
+
+          Capacity: 8 TB
+          Removable Media: Yes
+          Detachable Drive: Yes
+          BSD Name: disk2
+          Version: 1.00
+          Bus Power (mA): 500
+          Speed: Up to 480 Mb/sec
+          Manufacturer: Data Robotics Inc.
+          Mac OS 9 Drivers: No
+          Partition Map Type: GPT (GUID Partition Table)
+          Product ID: 0x4d10
+          Serial Number: 0DC084321823
+          S.M.A.R.T. status: Not Supported
+          Vendor ID: 0x19b9
+          Volumes:
+            Drobo:
+              Capacity: 8 TB
+              Available: 7.32 TB
+              Writable: Yes
+              File System: Journaled HFS+
+              BSD Name: disk2s2
+              Mount Point: /Volumes/Drobo
+          Volumes:
+            disk2s2:
+              Capacity: 8 TB
+              Available: 7.32 TB
+              Writable: Yes
+              File System: Journaled HFS+
+
+    USB Bus:
+
+      Host Controller Location: Built In USB
+      Host Controller Driver: AppleUSBUHCI
+      PCI Device ID: 0x27c8
+      PCI Revision ID: 0x0002
+      PCI Vendor ID: 0x8086
+      Bus Number: 0x1d
+
+        RadioSHARK:
+
+          Version: 0.01
+          Bus Power (mA): 500
+          Speed: Up to 12 Mb/sec
+          Manufacturer: Griffin Technology, Inc.
+          Product ID: 0x627a
+          Vendor ID: 0x077d
+
+    USB Bus:
+
+      Host Controller Location: Built In USB
+      Host Controller Driver: AppleUSBUHCI
+      PCI Device ID: 0x27cb
+      PCI Revision ID: 0x0002
+      PCI Vendor ID: 0x8086
+      Bus Number: 0x7d
+
+        Bluetooth USB Host Controller:
+
+          Version: 19.65
+          Bus Power (mA): 500
+          Speed: Up to 12 Mb/sec
+          Manufacturer: Apple, Inc.
+          Product ID: 0x8205
+          Vendor ID: 0x05ac  (Apple Computer, Inc.)
+
+        IR Receiver:
+
+          Version: 1.10
+          Bus Power (mA): 500
+          Speed: Up to 12 Mb/sec
+          Manufacturer: Apple Computer, Inc.
+          Product ID: 0x8240
+          Vendor ID: 0x05ac  (Apple Computer, Inc.)
+
+    USB Bus:
+
+      Host Controller Location: Built In USB
+      Host Controller Driver: AppleUSBUHCI
+      PCI Device ID: 0x27ca
+      PCI Revision ID: 0x0002
+      PCI Vendor ID: 0x8086
+      Bus Number: 0x5d
+
+        Hub:
+
+          Version: 1.00
+          Bus Power (mA): 500
+          Speed: Up to 12 Mb/sec
+          Product ID: 0x7000
+          Vendor ID: 0x0557
+
+            Kensington USB Wheel Mouse:
+
+              Version: 1.00
+              Bus Power (mA): 500
+              Speed: Up to 1.5 Mb/sec
+              Manufacturer: Kensington
+              Product ID: 0x1012
+              Vendor ID: 0x047d
+
+            Apple Pro Keyboard:
+
+              Version: 4.20
+              Bus Power (mA): 500
+              Speed: Up to 1.5 Mb/sec
+              Manufacturer: Mitsumi Electric
+              Product ID: 0x020b
+              Vendor ID: 0x05ac  (Apple Computer, Inc.)
+
+    USB Bus:
+
+      Host Controller Location: Built In USB
+      Host Controller Driver: AppleUSBUHCI
+      PCI Device ID: 0x27c9
+      PCI Revision ID: 0x0002
+      PCI Vendor ID: 0x8086
+      Bus Number: 0x3d
+
+        USB Printer:
+
+          Version: 1.00
+          Bus Power (mA): 500
+          Speed: Up to 12 Mb/sec
+          Manufacturer: EPSON
+          Product ID: 0x0005
+          Serial Number: M08P10410161549330
+          Vendor ID: 0x04b8
+
