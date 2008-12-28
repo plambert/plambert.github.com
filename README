@@ -1,0 +1,10 @@
+before editing, pull from both:
+  git pull origin
+  git pull pinky master
+
+to publish to github
+  git push origin
+
+to publish to pinky
+  git push pinky
+
